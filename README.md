@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Munim Awal
 
-<!--
-**Munim101/Munim101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Administration student (CIS concentration) at Cal Poly Pomona in Los Angeles. I'm a Task Order Management and Pricing intern at NASA's Jet Propulsion Laboratory.
 
-Here are some ideas to get you started:
+## What I do
+- Build trackers and automations with SharePoint and Power Automate
+- Data and business analysis
+- Technical Lead and Webmaster for MISSA, the Management Information Systems Student Association at Cal Poly Pomona
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I built
+- **Cyber Safety Coach** (https://munimawal.com/coach/): a free tool that checks messages and screenshots for scam signs. It runs in your browser, so your text stays on your device.
+- **My portfolio** (https://munimawal.com): my projects and background.
+
+## Find me
+- Website: https://munimawal.com
+- LinkedIn: https://www.linkedin.com/in/munim-awal-441859289
+- GitHub: https://github.com/Munim101
+
+I build with help from AI tools, and I say so.
