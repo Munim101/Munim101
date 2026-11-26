@@ -13,7 +13,7 @@ I'm a Business Administration student (CIS concentration) at Cal Poly Pomona in 
 
 ## Find me
 - Website: https://munimawal.com
-- LinkedIn: https://www.linkedin.com/in/munim-awal-441859289
+- LinkedIn: https://www.linkedin.com/in/munim-awal
 - GitHub: https://github.com/Munim101
 
 I build with help from AI tools, and I say so.
